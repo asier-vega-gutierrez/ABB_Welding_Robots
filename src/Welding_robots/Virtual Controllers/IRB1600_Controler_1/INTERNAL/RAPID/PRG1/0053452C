@@ -1,0 +1,11 @@
+MODULE MainModule
+    
+    
+    
+    PROC main()
+        
+        Shape_2_move_0;
+        
+    ENDPROC
+    
+ENDMODULE

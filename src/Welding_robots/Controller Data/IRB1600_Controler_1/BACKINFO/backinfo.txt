@@ -28,6 +28,9 @@ MOC.cfg
 >>TASK1: (T_ROB1,,)
 SYSMOD\user.sys @ 
 PROGMOD\MainModule.mod @ 
+PROGMOD\Shape_2.mod @ 
+PROGMOD\CalibData.mod @ 
+PROGMOD\Shape_3.mod @ 
 
 
 >>EOF:
