@@ -5,10 +5,11 @@ MODULE MainModule
     
     PROC main()
         
-        !MoveL pStart_00,v1000,z100,AW_Gun\WObj:=Level_0;
-        !Shape_2_Move;
+        MoveL pStart_00,v1000,z100,AW_Gun\WObj:=Level_0;
+        Shape_2_Move;
         MoveL pStart_01,v1000,z100,AW_Gun\WObj:=Level_0;
         Shape_3_Move;
+        MoveL pStart_01,v1000,z100,AW_Gun\WObj:=Level_0;
         
     ENDPROC
     

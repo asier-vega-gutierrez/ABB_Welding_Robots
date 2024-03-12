@@ -39,7 +39,7 @@ MODULE Shape_2
         !Linea 4
         MoveL Shape_2_p10,v1000,fine,AW_Gun\WObj:=Level_0;
         MoveL Shape_2_p11,v1000,fine,AW_Gun\WObj:=Level_0;
-        !posicion seguro de vuelta
+        !posicion segura de vuelta
         MoveL Shape_2_p12,v1000,fine,AW_Gun\WObj:=Level_0;
         
         
