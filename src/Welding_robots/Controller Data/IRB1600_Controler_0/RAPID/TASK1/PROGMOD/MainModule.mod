@@ -13,7 +13,6 @@ MODULE MainModule
         Shape_1_Move;
         MoveL pStart_01,v1000,fine,Weldgun\WObj:=Level_0;
         
-        
     ENDPROC
     
 
